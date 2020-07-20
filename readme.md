@@ -16,4 +16,5 @@
 | 315  | 计算右侧小于当前元素的个数     | [315](leetcode/315/315.md) | [C++](leetcode/315/315.cpp) | 排序         |
 | 350  | 两个数组的交集 II         | [350](leetcode/350/350.md) | [C++](leetcode/350/350.cpp) | 数组、哈希表 |
 | 785  | 判断二分图         | [785](leetcode/785/785.md) | [C++](leetcode/785/785.cpp) | 图遍历算法 |
+| LCP 08  | 剧情触发时间         | [LCP08](leetcode/LCP08/LCP08.md) | [C++](leetcode/LCP08/LCP08.cpp) | 数组、排序 |
 
